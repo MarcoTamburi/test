@@ -1,0 +1,5 @@
+# Ignora file ogni volta che modifico e li pusho su github
+*.py
+*.csv
+*.dat
+*.zip
